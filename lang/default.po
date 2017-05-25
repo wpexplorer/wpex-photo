@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-27 11:26-0800\n"
+"PO-Revision-Date: 2014-04-27 11:26-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../404.php:17
+msgid "homepage"
+msgstr ""
+
+#: ../author.php:24
+msgid "Posts by"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:18 ../single.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:18 ../single.php:24
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Comments closed"
+msgstr ""
+
+#: ../comments.php:22 ../comments.php:34
+msgid "Comment Navigation"
+msgstr ""
+
+#: ../comments.php:23 ../comments.php:35
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:24 ../comments.php:36
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:67
+msgid "Log In To Comment"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Submit Comment"
+msgstr ""
+
+#: ../footer.php:21
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:88
+msgid "Main"
+msgstr ""
+
+#: ../options.php:57
+msgid "General"
+msgstr ""
+
+#: ../options.php:61
+msgid "Custom Logo"
+msgstr ""
+
+#: ../options.php:62
+msgid "Upload your custom logo."
+msgstr ""
+
+#: ../options.php:68
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../options.php:69
+msgid "Upload your custom site favicon."
+msgstr ""
+
+#: ../options.php:74
+msgid "Responsive?"
+msgstr ""
+
+#: ../options.php:75 ../options.php:101
+msgid "Check box to enable the responsive layout."
+msgstr ""
+
+#: ../options.php:85
+msgid "Select"
+msgstr ""
+
+#: ../options.php:90
+msgid "Homepage Soliloquy Slider"
+msgstr ""
+
+#: ../options.php:91
+msgid "Select your homepage Soliloquy Slider."
+msgstr ""
+
+#: ../options.php:100
+msgid "Homepage Subtitle"
+msgstr ""
+
+#: ../options.php:103
+msgid "Most Recent"
+msgstr ""
+
+#: ../options.php:110
+msgid "Social"
+msgstr ""
+
+#: ../options.php:115
+msgid "Social?"
+msgstr ""
+
+#: ../options.php:116
+msgid "Check box to enable the social section in the main menu."
+msgstr ""
+
+#: ../options.php:125
+msgid "Enter your "
+msgstr ""
+
+#: ../options.php:125
+msgid " url"
+msgstr ""
+
+#: ../options.php:125
+msgid "Include http:// at the front of the url."
+msgstr ""
+
+#: ../options.php:136
+msgid "About"
+msgstr ""
+
+#: ../options.php:140
+msgid "Theme Credit"
+msgstr ""
+
+#: ../options.php:145
+msgid "Support? Donations?"
+msgstr ""
+
+#: ../options.php:150
+msgid "Newsletter"
+msgstr ""
+
+#: ../options.php:155
+msgid "Advertisement"
+msgstr ""
+
+#: ../search.php:16
+msgid "Search Results For"
+msgstr ""
+
+#: ../search.php:33
+msgid "Sorry, no results where found"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Type and hit enter to search"
+msgstr ""
+
+#: ../single.php:24
+msgid "0 Comments"
+msgstr ""
+
+#: ../single.php:47
+msgid "Random Posts"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:79
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:80
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:81
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:93
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:94
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/recommend-plugins.php:82
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/recommend-plugins.php:95
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/scripts.php:50
+msgid "Menu"
+msgstr ""
+
+#: ../functions/wpex_comments_output.php:22
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: ../functions/wpex_comments_output.php:24
+msgid "Reply"
+msgstr ""
