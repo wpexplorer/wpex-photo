@@ -39,12 +39,6 @@ require_once( get_template_directory() .'/functions/img_resizer.php' );
 require_once( get_template_directory() .'/functions/img_defaults.php' );
 require_once( get_template_directory() .'/functions/wpex_comments_output.php' );
 
-// Adds a feed metaboxes
-require_once ( get_template_directory() .'/functions/dashboard-feed.php' );
-
-// Splash Page
-require_once ( get_template_directory() .'/functions/welcome.php' );
-
 /**
 * Theme Setup
 */
